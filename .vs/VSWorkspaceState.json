@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.nuxt",
+    "\\assets",
+    "\\assets\\style",
+    "\\middleware"
+  ],
+  "SelectedNode": "\\.nuxt\\App.js",
+  "PreviewInSolutionExplorer": false
+}
